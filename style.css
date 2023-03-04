@@ -22,9 +22,7 @@ nav a{
 nav a:hover{
     background-color: rgb(23, 22, 22);
 }
-nav a.menu_right{
-    float: right;
-}
+
 #contact{
     background-color: rgb(235, 11, 134);
     margin: 0;
